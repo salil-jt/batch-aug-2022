@@ -1,7 +1,7 @@
-##Assignments
+## Assignments
 
 
-###August 30th 2022
+### August 30th 2022
 **GittHub Repository creation**
 **Steps**
 1. Create a repository on github (https://github.com/)
