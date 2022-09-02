@@ -1,5 +1,11 @@
 ## Assignments
 
+### September 2nd 2022
+**Java Setup**
+**Steps**
+1. Install Java on your machine (Follow instructions on Internet for Windows/Mac installation)
+2. Once installed create a sample HelloWorld program
+3. Compile and run the program using javac and java commands
 
 ### August 30th 2022
 **GittHub Repository creation**
