@@ -1,5 +1,12 @@
 ## Assignments
 
+### September 7th 20022
+**To Do**
+1. Try out primitve data types (byte,short,int,long,float,double,char,boolean)
+2. Explore the programs uploaded today(07th Septemeber 2022)
+3. Try creating them and running them on your machines
+
+
 ### September 2nd 2022
 **Java Setup**
 **Steps**
