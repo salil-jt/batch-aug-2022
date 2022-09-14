@@ -1,5 +1,11 @@
 ## Assignments
 
+### September 14th 20022
+**To Do**
+1. Try out if and for loop
+2. Try out Arrays
+
+
 ### September 7th 20022
 **To Do**
 1. Try out primitve data types (byte,short,int,long,float,double,char,boolean)
