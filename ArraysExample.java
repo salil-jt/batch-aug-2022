@@ -19,12 +19,24 @@ int marks_hindi_2 = 50;
 
 
 
-int marks_stud1[] = new int[4];
+int marks_stud[] = new int[4];
+marks_stud[0]=10;
+marks_stud[2]=6;
+marks_stud[3]=8;
 
-marks_stud1[]={1,2,34,34};
+
+//int marks_stud[] = {10,5,6,8,3};
+System.out.println(marks_stud.length); // 4
 
 
-System.out.println(marks_stud1[0]);
+System.out.println(marks_stud[0]); // 10
+System.out.println(marks_stud[1]); 
+
+
+
+
+//int []marks_stud = new int[4];
+
 
 
 
