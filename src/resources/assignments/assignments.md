@@ -1,5 +1,10 @@
 ## Assignments
 
+### September 16th 20022
+**To Do**
+1. Try out Arrays - 1D, with all examples discussed in class
+2. Try out Arrays - 2D, with all examples discussed in class
+
 ### September 14th 20022
 **To Do**
 1. Try out if and for loop
