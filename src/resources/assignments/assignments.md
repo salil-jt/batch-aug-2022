@@ -1,5 +1,30 @@
 ## Assignments
 
+### September 26th 20022
+**To Do - Write Java programs for**
+1. Fibonnaci Series
+2. Pallindrome number (121 , 212, 6556)
+3. Transpose of a matrix
+4. Print patterns in java (Print a star, pyramid, diamond)
+5. Armstrong number – 153 (1^3 + 5^3 + 3^3 = 153)
+6. Peterson Number – 145 (1!+4!+5! = 145)
+
+
+
+
+
+### September 26th 20022
+**To Do**
+1. Try out Java control statements  with examples as discussed in class
+
+
+
+### September 20th 20022
+**To Do**
+1. Try out different operators with examples as discussed in class
+
+
+
 ### September 16th 20022
 **To Do**
 1. Try out Arrays - 1D, with all examples discussed in class
