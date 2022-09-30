@@ -30,15 +30,21 @@ public class BoxDemo {
 		myBox2.height = 10;
 		myBox2.width = 12;
 		
-	    // compute volume of box1
+	    /* compute volume of box1
 		volume = myBox1.depth * myBox1.height * myBox1.width;
-		System.out.println("Volume of box1 is :"+volume);
+		System.out.println("Volume of box1 is :"+volume);*/
 		// syso -> press ctrl+space
 		
 		
-		 // compute volume of box2
+		 /* compute volume of box2
 		volume = myBox2.depth * myBox2.height * myBox2.width;
-		System.out.println("Volume of box2 is :"+volume);
+		System.out.println("Volume of box2 is :"+volume);*/
+		
+		/* call volum method to print volume
+		 */
+		
+		myBox1.volume();
+		myBox2.volume();
 
 		
 	}
@@ -50,4 +56,11 @@ public class BoxDemo {
 	  double width;
 	  double height;
 	  double depth;
+	  
+	// display volume of a box
+	  void volume() {
+	    System.out.print("Volume is ");
+	    System.out.println(width * height * depth);
+	  }
+
 	}
