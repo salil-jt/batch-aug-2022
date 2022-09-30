@@ -40,10 +40,11 @@ class BoxSt {
 	
 	
 	// Added parameterized constructor
-	BoxSt(double w, double h, double d) {
-	    width = w;
-	    height = h;
-	    depth = d;
+	BoxSt(double width, double height, double depth) {
+	    this.width = width;
+	    
+	    this.height = height;
+	    this.depth = depth;
 	}
 
 	  
