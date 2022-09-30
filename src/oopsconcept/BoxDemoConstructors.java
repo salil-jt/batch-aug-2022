@@ -5,9 +5,9 @@ public class BoxDemoConstructors {
 	public static void main(String[] args) {
 
 		
-		BoxSt myBox1 = new BoxSt();
+		BoxSt myBox1 = new BoxSt(10, 20, 30);
 
-		BoxSt myBox2 = new BoxSt(); 
+		BoxSt myBox2 = new BoxSt(15,10,12); 
 	
 
 		System.out.println(myBox1.volume());
@@ -30,13 +30,22 @@ class BoxSt {
 		return width * height * depth;
 	}
 
-	// This is the constructor for BoxSt.
+	/* This is the constructor for BoxSt - non parameterized.
 	  BoxSt() {
 	    System.out.println("Constructing Box");
 	    width = 10;
 	    height = 20;
 	    depth = 30;
+	}*/
+	
+	
+	// Added parameterized constructor
+	BoxSt(double w, double h, double d) {
+	    width = w;
+	    height = h;
+	    depth = d;
 	}
+
 	  
 	 
 	
