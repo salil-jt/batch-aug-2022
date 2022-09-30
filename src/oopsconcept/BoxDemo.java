@@ -42,9 +42,13 @@ public class BoxDemo {
 		
 		/* call volum method to print volume
 		 */
+		//myBox1.volume();
+		//myBox2.volume();
 		
-		myBox1.volume();
-		myBox2.volume();
+		// call the volume method and print the value returned
+		
+		System.out.println(myBox1.volume());
+		System.out.println(myBox2.volume());
 
 		
 	}
@@ -57,10 +61,15 @@ public class BoxDemo {
 	  double height;
 	  double depth;
 	  
-	// display volume of a box
+	/* display volume of a box
 	  void volume() {
 	    System.out.print("Volume is ");
 	    System.out.println(width * height * depth);
-	  }
+	  }*/
+	  
+	  double volume() {
+		    return width * height * depth;
+		  }
+
 
 	}
