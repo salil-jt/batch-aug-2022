@@ -1,5 +1,43 @@
 ## Assignments
 
+### Assignment 19
+**To Do - Collections, ArrayList,Stack**
+1. Understand the Collection Framework overall
+2. Create an Integer ArrayList and add all the elements in that ArrayList
+3. Follow Assignment 18 and create an ArrayList of Strings and perform the 4 questions
+4. Create a sample program on Stack 
+
+### Assignment 18
+**To Do - Strings Questions to solve**
+1. Find length of each word in an Array
+2. Split a big sentence and count words in that sentence
+3.	Print only names start with Ro from this array - String names[] = {“Abhishek”,”Roopa”,”Rohit”,”Rishi”,”Rohan”,”Vinod”,”Ronit”,”Naresh”}
+4. Reverse a string using String and StringBuffer
+
+### Assignment 17
+**To Do - Strings,String Buffer**
+1. Create multiple String objects and explore different methods they provide
+2. Create multiple StringBuffer objects and explore different methods they provide
+
+### Assignment 16
+**To Do - Exception Handling**
+1. Understand what exceptions are and when do they occur.
+2. Apply try-catch-finally to divide by zero, ArrayIndexOutOfBound Exceptions
+3. Using multiple try-catch-finally blocks
+
+
+### Assignment 15
+**To Do - Abstract classes, Interfaces, Packages and access control**
+1. Practice creating simple Abstract classes and concrete classes by extending them
+2. Create an interface and implement it using a concrete class
+3. Practice access control and see how different packages, sub-classes can access variables defined in parent classes
+
+### Assignment 14
+**To Do - Inheritance Basics**
+1. Understanding Inheritance and trying a sample program
+2. Create a class called Animal, define few common methods. Then define 2 sub classes Dog and Cat and use Inheritance
+3. Understanding Overriding
+
 ### Assignment 13
 **To Do - Final,Static**
 1. Create final variables and see what happens if we change them.
