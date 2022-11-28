@@ -1,5 +1,13 @@
 ## Assignments
 
+
+
+### Assignment 20
+**To Do - Set, Map**
+1. Understand the Set Interface and implementation classes
+2. Understand the Map hierarchy and see how HashMap, TreeMap works
+
+
 ### Assignment 19
 **To Do - Collections, ArrayList,Stack**
 1. Understand the Collection Framework overall
